@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/sbt/Desktop/skel/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sbt/Desktop/skel/xst"
+elaborate
+-ifn process.prj
+-ifmt mixed
